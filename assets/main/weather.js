@@ -20,3 +20,8 @@ class Weather {
     this.country = country;
   }
 }
+
+
+
+
+//class Component 
