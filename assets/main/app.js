@@ -46,3 +46,10 @@ function getLocationOnLoad() {
     })
     .catch((err) => console.log(err));
 }
+
+
+
+
+
+
+//Omo it is what it is , longest check in a while
